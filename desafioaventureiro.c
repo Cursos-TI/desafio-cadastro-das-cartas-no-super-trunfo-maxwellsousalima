@@ -86,6 +86,7 @@ printf("4.pontos turisticos\n");
 printf("5.densidade\n");
 scanf("%d", &opcao);
 
+// logica para comparar cartas e definir a vencedora
 switch (opcao)
 {
 case 1:
